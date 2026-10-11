@@ -16,12 +16,12 @@ $ whoami
 Mit Gandhi — Applied Machine Learning Graduate Student
 
 $ cat profile.txt
-🎓  MS in Applied Machine Learning @ University of Maryland
-🤖  Interests: Machine Learning, Deep Learning, GenAI & RL
-🧠  Exploring: LLM applications, RAG, intelligent agents & GNNs
-🔬  Research: AI security, vulnerability analysis & automation
-🛡️  Background: Cybersecurity and security auditing
-🚀  Building: End-to-end AI/ML systems across multiple domains
+🎓 MS in Applied Machine Learning @ University of Maryland
+🤖 Interests: Machine Learning, Deep Learning, GenAI & RL
+🧠 Exploring: LLMs, RAG, intelligent agents & Graph ML
+🔬 Research: AI security, vulnerability analysis & automation
+🛡️ Background: Cybersecurity and security auditing
+🚀 Building: End-to-end AI/ML systems across multiple domains
 ```
 
 ---
@@ -42,14 +42,14 @@ $ cat profile.txt
 \
 
 
-**Generative AI & Intelligent Systems**
+**Generative AI & LLMs**
 
 
 
 \
 
 
-**Data Engineering & Deployment**
+**Development & Deployment**
 
 
 
@@ -70,7 +70,7 @@ $ cat profile.txt
 
 \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=MitGandhi4&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=MitGandhi4\&show_icons=true\&theme=tokyonight\&hide_border=true)" alt="GitHub statistics" />
 
-\<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MitGandhi4&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=MitGandhi4\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most-used languages" />
+\<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MitGandhi4&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=MitGandhi4\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most-used programming languages" />
 
 \<img src="[https://streak-stats.demolab.com?user=MitGandhi4&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=MitGandhi4\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak" />
 
@@ -80,14 +80,21 @@ $ cat profile.txt
 
 ## 🚀 Featured Projects
 
-| Project          | Focus                            | Description                                                |
-| ---------------- | -------------------------------- | ---------------------------------------------------------- |
-| **SentinelAI**   | AI / Intelligent Systems         | https://github.com/MitGandhi4/SentinelAI                   |
-| **AlphaRL**      | Reinforcement Learning / Finance | https://github.com/MitGandhi4/Financial_ReinforcementAI    |
-| **SupplyMind**   | Supply Chain / Optimization      | https://github.com/MitGandhi4/SupplyLogicAI                |
-| **ClinicalMind** | Healthcare AI                    | https://github.com/MitGandhi4/clinicalmind                 |
+### 🤖 [SentinelAI](https://github.com/MitGandhi4/SentinelAI)
 
-> Replace these entries with the actual repository URLs, tech stacks, and results. Feature completed, demonstrable work first.
+AI and intelligent systems project.
+
+### 📈 [Financial Reinforcement AI](https://github.com/MitGandhi4/Financial_ReinforcementAI)
+
+Reinforcement learning and financial decision-making.
+
+### 🔗 [SupplyLogicAI](https://github.com/MitGandhi4/SupplyLogicAI)
+
+Supply chain optimization and intelligent network analysis.
+
+### 🏥 [ClinicalMind](https://github.com/MitGandhi4/clinicalmind)
+
+Healthcare AI project.
 
 ---
 
@@ -95,17 +102,17 @@ $ cat profile.txt
 
 **PyGuardEX — Automated Detection and Mitigation of Malicious Packages**
 
-Research on identifying and mitigating malicious packages in the PyPI ecosystem and executable files.
+Research on detecting and mitigating malicious packages in the PyPI ecosystem and executable files.
 
 - Published at IEEE INCOWOCO 2024.
 - Focus areas: software supply-chain security, malicious package detection, and automation.
 
-**Current Research Interests**
+**Research Interests**
 
-- Machine learning for security and vulnerability analysis
-- Reliable LLM applications and retrieval-augmented generation
+- Machine learning and deep learning
+- Large language models and retrieval-augmented generation
 - Reinforcement learning and graph-based learning
-- Evaluation, reproducibility, and deployment of ML systems
+- AI security and software vulnerability analysis
 
 ---
 
